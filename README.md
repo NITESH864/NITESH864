@@ -1,29 +1,47 @@
 # 👋 Hi, I'm Nitesh Gupta
 
-🎓 Final year B.Tech (CS) student | 💻 Learning Django, Machine Learning  
-📈 Interested in Python, ML, and building real-world projects
+🎓 Final year B.Tech (Computer Science) student  
+🧠 Passionate about Machine Learning, Python & Django  
+🚀 On a journey to build real-world ML & web projects
 
 ---
 
-## 🚀 What I'm Doing
+## 🔧 What I'm Learning
 
-- 🔧 Working on: [ML-Learning](https://github.com/NITESH864/ML-Learning)
-- 🧠 Learning: Python,Django, Numpy, Pandas, Scikit-learn
-- 🎯 Goal: Become confident in ML + crack good job!
-
----
-
-## 💻 Tech Stack
-
-`Python` • `NumPy` • `Pandas` • `HTML` • `CSS` • `GitHub`
+- 🔥 Python (Advanced, OOP, Real Projects)
+- 🌐 Web Development using **Django**
+- 📊 NumPy, Pandas, Matplotlib
+- 🤖 Machine Learning with Scikit-learn
+- 🗣️ Improving Communication & Interview skills
 
 ---
 
-## 📫 Connect With Me
+## 📂 Featured Repository
 
-- LinkedIn: [www.linkedin.com/in/nitesh55gupta]
-- Email: niteshgupta5665.com
+🔹 **[ML-Learning](https://github.com/NITESH864/ML-Learning)**  
+📘 My daily practice repo for Python, Django & ML tasks. Step-by-step learning journey.
 
 ---
 
-*Thanks for visiting my profile!*
+## 🧰 Tech Toolbox
+
+`Python` • `Django` • `NumPy` • `Pandas` • `Matplotlib` • `Git` • `GitHub` • `HTML` • `CSS` • `Bootstrap`
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nitesh55gupta)
+- 📧 Email: your.email@example.com *(update with your real email)*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NITESH864&show_icons=true&theme=radical" alt="Nitesh's GitHub Stats">
+</p>
+
+---
+
+*Thanks for visiting my profile! I'm learning one step at a time.* 🙌
