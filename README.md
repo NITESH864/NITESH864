@@ -32,7 +32,7 @@
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nitesh55gupta)
-- 📧 Email: nitesggupta5665@gmail.com 
+- 📧 Email: niteshgupta5665@gmail.com 
 
 ---
 
