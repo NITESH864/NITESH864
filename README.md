@@ -32,7 +32,7 @@
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nitesh55gupta)
-- 📧 Email: your.email@example.com *(update with your real email)*
+- 📧 Email: nitesggupta5665@gmail.com 
 
 ---
 
