@@ -48,8 +48,8 @@ Created an interactive TicTacToe game using HTML, CSS & JavaScript.
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nitesh Gupta-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN/)  
-[![Email](https://img.shields.io/badge/Email-me-your.email@example.com-red?style=flat&logo=gmail)](mailto:your.email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nitesh Gupta-blue?style=flat&logo=linkedin)](www.linkedin.com/in/niteshgupta55)  
+[![Email](https://img.shields.io/badge/Email-me-your.email@example.com-red?style=flat&logo=gmail)](niteshgupta5665@gmail.com)  
 
 ---
 
