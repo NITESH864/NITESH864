@@ -1,47 +1,76 @@
-# 👋 Hi, I'm Nitesh Gupta
+# 🚀 Nitesh Gupta  
+### *Aspiring Machine Learning Engineer | B.Tech CSE | Front-End Developer*
 
-🎓 Final year B.Tech (Computer Science) student  
-🧠 Passionate about Machine Learning, Python & Django  
-🚀 On a journey to build real-world ML & web projects
-
----
-
-## 🔧 What I'm Learning
-
-- 🔥 Python (Advanced, OOP, Real Projects)
-- 🌐 Web Development using **Django**
-- 📊 NumPy, Pandas, Matplotlib
-- 🤖 Machine Learning with Scikit-learn
-- 🗣️ Improving Communication & Interview skills
+> Focused on building impactful ML projects and clean, functional web applications.
 
 ---
 
-## 📂 Featured Repository
-
-🔹 **[ML-Learning](https://github.com/NITESH864/ML-Learning)**  
-📘 My daily practice repo for Python, Django & ML tasks. Step-by-step learning journey.
-
----
-
-## 🧰 Tech Toolbox
-
-`Python` • `Django` • `NumPy` • `Pandas` • `Matplotlib` • `Git` • `GitHub` • `HTML` • `CSS` • `Bootstrap`
+## 💡 About Me
+- 🎓 Final-year **Computer Science Engineering** student  
+- 🤖 Passionate about **Machine Learning, Data Science & Predictive Modeling**  
+- 💻 Strong in **Python, ML algorithms, and UI development**  
+- 📊 Skilled in **data analysis, visualization, and model building**  
+- 🎯 Preparing for placements & building real-world projects  
+- 🔍 Interested in **Software, ML, and Data Analyst roles**
 
 ---
 
-## 📫 Let's Connect
+## 🛠️ Technical Skills
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nitesh55gupta)
-- 📧 Email: niteshgupta5665@gmail.com 
+### **Languages**
+Python • JavaScript • Java  
+
+### **Machine Learning / Data Science**
+NumPy • Pandas • Scikit-Learn • Matplotlib • Jupyter Notebook  
+
+### **Web Development**
+HTML5 • CSS3 • JavaScript • Bootstrap  
+
+### **Tools**
+Git • GitHub • VS Code • Jupyter Notebook  
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NITESH864&show_icons=true&theme=radical" alt="Nitesh's GitHub Stats">
-</p>
+### 🔹 **Heart Disease Prediction — Machine Learning Model**  
+Developed an ML classification model using Python, Pandas, and Scikit-Learn to predict heart disease risk.  
+*(Add your repo link here)*
 
 ---
 
-*Thanks for visiting my profile! I'm learning one step at a time.* 🙌
+### 🔹 **IIMAayodhya Web (College Clone) — Live**  
+Fully responsive college website clone built using HTML, CSS, JavaScript, and Bootstrap.  
+*(Add your live URL + repo link here)*
+
+---
+
+### 🔹 **Traffic Prediction Using Real-Time Data**  
+Built a predictive model integrating ML with live API data to forecast traffic congestion.  
+*(Add your repo link here)*
+
+---
+
+## 📊 GitHub Highlights
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=NITESH864&show_icons=true&theme=react&hide_border=true" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITESH864&layout=compact&theme=react&hide_border=true" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=NITESH864&theme=react&hide_border=true" height="165" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+- **GitHub:** https://github.com/NITESH864  
+- **LinkedIn:** *(Add your link)*  
+- **Email:** *(Add your email)*  
+
+---
+
+## ⭐ Thanks for Visiting!
+If you like my work, consider giving a ⭐ to my repositories!
