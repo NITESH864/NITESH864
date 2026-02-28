@@ -3,7 +3,7 @@
 
 > Building meaningful ML projects and clean, responsive web applications.
 
----
+----
 
 ## 💡 About Me  
 - 🎓 Final-year **Computer Science Engineering** student  
